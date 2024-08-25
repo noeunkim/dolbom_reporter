@@ -1,0 +1,7 @@
+.venv/
+.idea/
+__pycache__/
+/source
+/output/doc.html
+/config/*.json
+.env
